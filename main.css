@@ -7,21 +7,21 @@ div.couplp {
 }
 
 div {
-    background-color: #FFC26F;
-    width: 50px;
-    height: 50px;
-    border: 1px solid black;
+  background-color: #ffc26f;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
 }
 
-div img{
-    width: 100%;
+div img {
+  width: 100%;
 }
 
 div.all {
-    display: flex;
-
+  display: flex;
 }
 
 div.selected {
-  background-color: #884A39;
+  background-color: #884a39;
 }
